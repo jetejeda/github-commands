@@ -1,4 +1,6 @@
-# github-commands
+# Git and GitHub course
+
+## github-commands
 Udemy course for using git and github for version control
 
 # Remote repositories documentation>
