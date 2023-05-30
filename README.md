@@ -12,3 +12,9 @@ Gitosis guide:
 
 Save github credentials in git:
 * https://docs.github.com/es/get-started/getting-started-with-git/caching-your-github-credentials-in-git#platform-windows
+
+# Markdown usage
+
+* Tutorial: http://www.markdowntutorial.com/
+* cheatSheet: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+* Emojis usage: https://www.webpagefx.com/tools/emoji-cheat-sheet/
