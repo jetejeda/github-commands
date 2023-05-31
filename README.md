@@ -18,3 +18,7 @@ Save github credentials in git:
 * Tutorial: http://www.markdowntutorial.com/
 * cheatSheet: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 * Emojis usage: https://www.webpagefx.com/tools/emoji-cheat-sheet/
+
+# GitHub flows
+
+* https://blog.mergify.com/understanding-the-github-pull-request-workflow/
