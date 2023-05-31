@@ -22,3 +22,8 @@ Save github credentials in git:
 # GitHub flows
 
 * https://blog.mergify.com/understanding-the-github-pull-request-workflow/
+
+# Understanding milestones
+
+* https://docs.github.com/es/issues/tracking-your-work-with-issues/about-issues
+
